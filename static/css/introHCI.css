@@ -1,3 +1,5 @@
+
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
@@ -31,11 +33,4 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
-}
-.project {
-	margin-left: 15px;
-	background-color: #deebf7;
-	padding: 20px;
-	width: 530px;
-
 }
